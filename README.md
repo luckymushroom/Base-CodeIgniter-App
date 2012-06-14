@@ -44,6 +44,11 @@ Permissions:
 
 Change Log
 --------------------
+**1.1.2**
+
+* Added @jamierumbelow MY_Model
+* Added @jamierumbelow Pidgeon
+
 **1.1.1**
 
 * Updated Twitter Bootstrap to 2.0.2
