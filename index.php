@@ -250,6 +250,13 @@ if (defined('ENVIRONMENT'))
 		define ('VIEWPATH', APPPATH.'views/' );
 	}
 
+	/*
+	 * --------------------------------------------------------------------
+	 * LOAD THE VENDOR AUTOLOAD TO DO AWESOME STUFF
+	 * --------------------------------------------------------------------
+	 */	
+	require_once './vendor/autoload.php';
+
 /*
  * --------------------------------------------------------------------
  * LOAD THE BOOTSTRAP FILE

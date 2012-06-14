@@ -1,0 +1,6 @@
+{
+    "packages": {
+        "git://github.com/jamierumbelow/pigeon.git" : "*",
+        "git://github.com/jamierumbelow/codeigniter-base-model.git" : "*"
+    }
+}
